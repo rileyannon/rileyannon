@@ -7,12 +7,14 @@
 
 ## 🛠️ Skills and Technologies
 
+
+
 ### Professional:
-- **Languages:** C#, F#, HTML/CSS, JavaScript
+- **Languages:** C#, F#, HTML/CSS, JavaScript, CQL/SQL
 - **Frameworks:** React, ASP.NET
 
 ### Hobby:
-- **Languages:** Python (especially TensorFlow/Pandas), C++
+- **Languages:** Python (including TensorFlow/PyTorch), C++
 
 ## 🌟 Projects
 
@@ -28,23 +30,20 @@
 - **Music:** Passionate about guitars and music (especially about Radiohead and The Beatles)
 - **Fitness:** Enthusiastic about running and weightlifting
 - **Gaming:** Enjoy playing video games
-- **Reading:** Avid reader
 
 ## 📬 Contact Information
-
 - [LinkedIn](https://www.linkedin.com/in/rileyannon/) | [Website](https://rileyannon.com/)
 
 ## 🌟 Fun Fact
 
 - Temporarily ranked #1 in Nicki Minaj trivia in AZ despite never having listened to her music
 
-<div>
-    <img src="https://www.eff.org/files/2023/11/30/2024_member_badge.png" />
+<div align="center">
+    <a href="https://www.eff.org/">
+    <img style="height:100px" src="https://www.eff.org/files/2023/11/30/2024_member_badge.png" />
+    </a>
 </div>
-
-<(o )           <(o )          <(o )  
- (  <= ) ,,,     (  <= ) ,,,    (  <= ) ,,,
- 
+     
 <!--
 **rileyannon/rileyannon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
