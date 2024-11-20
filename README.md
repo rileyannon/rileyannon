@@ -36,7 +36,7 @@
 
 ## 🌟 Fun Fact
 
-- Temporarily ranked #1 in Nicki Minaj trivia in AZ despite never having listened to her music
+- Temporarily ranked #1 in Rihanna trivia in AZ despite never having listened to her music
 
 <div align="center">
     <a href="https://www.eff.org/">
